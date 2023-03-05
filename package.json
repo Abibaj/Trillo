@@ -1,7 +1,7 @@
 {
   "name": "trillo",
   "version": "1.0.0",
-  "description": "trillo app",
+  "description": "A static hotel booking webpage showcasing my advanced CSS skills. 😉",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
